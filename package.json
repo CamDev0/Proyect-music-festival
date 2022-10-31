@@ -1,0 +1,19 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp Sass Html",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamDev0/Proyect-music-festival.git"
+  },
+  "author": "Camilo Barrios",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CamDev0/Proyect-music-festival/issues"
+  },
+  "homepage": "https://github.com/CamDev0/Proyect-music-festival#readme"
+}
