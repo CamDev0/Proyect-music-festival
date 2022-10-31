@@ -4,7 +4,7 @@
   "description": "Proyecto con Gulp Sass Html",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "sass": "sass --watch src/scss:build/css"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CamDev0/Proyect-music-festival/issues"
   },
-  "homepage": "https://github.com/CamDev0/Proyect-music-festival#readme"
+  "homepage": "https://github.com/CamDev0/Proyect-music-festival#readme",
+  "devDependencies": {
+    "sass": "^1.55.0"
+  }
 }
