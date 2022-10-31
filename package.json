@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/CamDev0/Proyect-music-festival#readme",
   "devDependencies": {
+    "gulp": "^4.0.2",
     "sass": "^1.55.0"
   }
 }
